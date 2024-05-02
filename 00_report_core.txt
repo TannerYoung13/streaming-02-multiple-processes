@@ -1,0 +1,25 @@
+
+======================================================================
+======================================================================
+ Welcome to NW Diagnostics!
+ At: 2024-05-01 at 07:51 PM
+ Operating System: nt Windows 10
+ System Architecture: 64bit
+ Number of CPUs: 12
+ Machine Type: AMD64
+ Python Version: 3.12.3
+ Python Build Date and Compiler: tags/v3.12.3:f6650f9 with Apr  9 2024 14:05:25
+ Python Implementation: CPython
+ Active pip environment: None
+ Path to Interpreter:         C:\Users\ksu09\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\python.exe
+ Path to virtual environment: C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.12_3.12.1008.0_x64__qbz5n2kfra8p0
+ Current Working Directory:   C:\Users\ksu09\OneDrive\Documents\Data Analytics Masters Work\streaming-02-multiple-processes
+ Path to source directory:    C:\Users\ksu09\OneDrive\Documents\Data Analytics Masters Work\streaming-02-multiple-processes
+ Path to script file:         C:\Users\ksu09\OneDrive\Documents\Data Analytics Masters Work\streaming-02-multiple-processes\00_check_core.py
+ User's Home Directory:       C:\Users\ksu09
+ Terminal Environment:        VS Code
+ Terminal Type:               cmd.exe
+ Git available in PATH:       True 
+======================================================================
+======================================================================
+
